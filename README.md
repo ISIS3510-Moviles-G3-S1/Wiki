@@ -1,1 +1,1 @@
-# ISIS3510-G13
+# This repository is exclusive for the usage of the wiki
